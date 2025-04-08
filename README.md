@@ -14,7 +14,7 @@ The `main` branch serves as the default branch and contains general information 
 ### Branches Overview
 
 - **LearningFun**: Contains scripts designed for learning Python concepts in a fun and interactive way. Examples include simple games, simulations, and utilities.
-- **WebsiteChecker**: Contains the `wcheckadv.py` script, a GUI-based tool for monitoring the availability of websites or network devices.
+- **WebsiteChecker**: Contains the `wcheckadv.py` script, a GUI-based tool for monitoring the availability of websites or network devices, with a dark theme.
 - **Scraper**: Contains the `scrape.py` script, which scrapes websites for `.png` links and their corresponding CIDs, saving the results to a JSON file.
 
 ---
